@@ -237,13 +237,6 @@ def detectcars(imaged):
     return clone  
 ```
 
-    /Users/hatanaka/anaconda3/envs/carnd-term1/lib/python3.5/site-packages/skimage/feature/_hog.py:119: skimage_deprecation: Default value of `block_norm`==`L1` is deprecated and will be changed to `L2-Hys` in v0.15
-      'be changed to `L2-Hys` in v0.15', skimage_deprecation)
-
-
-
-![png](./output/output_13_1.png)
-
 
 
 
